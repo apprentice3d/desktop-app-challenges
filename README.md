@@ -1,4 +1,4 @@
-## Forge API in desktop apps: challenges and solutions
+## Forge API in Desktop Apps: Challenges and Solutions
 
 This article discusses the special challenges faced when making use of a pure cloud-based system such as Forge from a pure desktop application.
 
